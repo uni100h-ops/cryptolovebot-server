@@ -1,5 +1,6 @@
 # CryptoLoveBot — Server
 https://www.youtube.com/watch?v=cGCE0FWduUU
+
 https://www.youtube.com/watch?v=sC6boK-1lkc&t=5s
 
 **The public backend and integration layer for CryptoLoveBot, an automated trading product built around Hyperliquid.**
