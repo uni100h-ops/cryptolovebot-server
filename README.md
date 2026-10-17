@@ -181,6 +181,6 @@ These are findings about the reviewed source, not a verification of the running 
 
 ## Project status and license
 
-CryptoLoveBot is an early-stage product under active development. Work continues on integration and validation between historical simulation and live execution. Identical trades and returns across simulations or accounts are not guaranteed. Automated trading can lose money.
+Identical trades and returns across simulations or accounts are not guaranteed. Automated trading can lose money.
 
 No license file was present in the reviewed repository. Public source visibility does not by itself grant open-source reuse rights. The private strategy engine and production credentials are not part of this repository.
